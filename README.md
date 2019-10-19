@@ -9,3 +9,5 @@
 5. If you don't find the cache/nnet/CornerNet_Squeeze folder, you can mkdir it into the CornerNet-Lite-master folder.
 
 6. Using python test_iou.py, you can get the evaluation of IoU on the validation.
+---
+![img_res](demo/img_res.png)
